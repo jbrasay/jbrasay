@@ -15,8 +15,7 @@ An IT Speciliast, aspiring to become a Full-Stack Developer <br>Studied Computer
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 # 🚀 Certifications
-<img src="./Certifications/CompTIA_A+.png" alt="CompTIA-A+" width="75" height="75"/>
-<img src="./Certifications/CompTIA_Network+.png" alt="CompTIA-Network+" width="75" height="75"/>
+<img src="./Certifications/CompTIA_A+.png" alt="CompTIA-A+" width="75" height="75"/> <img src="./Certifications/CompTIA_Network+.png" alt="CompTIA-Network+" width="75" height="75"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jbrasay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

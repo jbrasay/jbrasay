@@ -16,6 +16,8 @@ An IT Speciliast, aspiring to become a Full-Stack Developer <br>Studied Computer
 
 # 🚀 Certifications
 <img src="./Certifications/CompTIA_A+.png" alt="CompTIA-A+" width="75" height="75"/>
+<img src="./Certifications/CompTIA_Network+.png" alt="CompTIA-Network+" width="75" height="75"/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jbrasay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jbrasay&theme=dark&hide_border=false)<br/>

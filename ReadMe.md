@@ -1,5 +1,5 @@
 # 👋 Hi I'm John
-An IT Speciliast aspiring to become a Full-Stack Developer <br>Studied Computer Science at University of Hawaii at Manoa<br>Currently learning TypeScript and Redux<br>Continously learning and improving
+An IT Speciliast aspiring to become a Full-Stack Developer focusing on web/cloud applications<br>Studied Computer Science at University of Hawaii at Manoa<br>Currently learning TypeScript and Redux<br>Continously learning and improving
 
 
 # 💻 Tech Stack:
